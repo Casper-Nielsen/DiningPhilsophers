@@ -1,0 +1,7 @@
+C:\Users\casp8660\source\repos\Dining philsophers\Dining philsophers\bin\Debug\Dining philsophers.exe.config
+C:\Users\casp8660\source\repos\Dining philsophers\Dining philsophers\bin\Debug\Dining philsophers.exe
+C:\Users\casp8660\source\repos\Dining philsophers\Dining philsophers\bin\Debug\Dining philsophers.pdb
+C:\Users\casp8660\source\repos\Dining philsophers\Dining philsophers\obj\Debug\Dining philsophers.csprojAssemblyReference.cache
+C:\Users\casp8660\source\repos\Dining philsophers\Dining philsophers\obj\Debug\Dining philsophers.csproj.CoreCompileInputs.cache
+C:\Users\casp8660\source\repos\Dining philsophers\Dining philsophers\obj\Debug\Dining philsophers.exe
+C:\Users\casp8660\source\repos\Dining philsophers\Dining philsophers\obj\Debug\Dining philsophers.pdb
